@@ -1,0 +1,9 @@
+[submodule "elf"]
+	path = elf
+	url = git://github.com/elfjs/elf.git
+[submodule "jslib"]
+	path = jslib
+	url = git://github.com/elfjs/jslib.git
+[submodule "builder"]
+	path = builder
+	url = git://github.com/elfjs/jslib-builder.git
