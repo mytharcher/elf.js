@@ -13,3 +13,6 @@
 [submodule "tools/dwarf"]
 	path = tools/dwarf
 	url = git@github.com:mytharcher/dwarf
+[submodule "tools/ext-doc"]
+	path = tools/ext-doc
+	url = git@github.com:mytharcher/ext-doc.git
