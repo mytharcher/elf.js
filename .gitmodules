@@ -10,3 +10,6 @@
 [submodule "elfjs.github.com"]
 	path = elfjs.github.com
 	url = git@github.com:elfjs/elfjs.github.com.git
+[submodule "tools/dwarf"]
+	path = tools/dwarf
+	url = git@github.com:mytharcher/dwarf
