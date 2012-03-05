@@ -16,3 +16,6 @@
 [submodule "tools/ext-doc"]
 	path = tools/ext-doc
 	url = git@github.com:mytharcher/ext-doc.git
+[submodule "eui"]
+	path = eui
+	url = git@github.com:elfjs/eui.git
